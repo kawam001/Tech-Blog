@@ -7,15 +7,15 @@
 :root {
     /* color palette */
     --judgement-gray: rgba(35, 35, 35, 0.9);
-    --no-feet: rgba(131, 129, 129, 0.5);
-    --slim-shady: rgba(0, 0, 0, 0.5);
-    --live-laugh-beige: rgb(252, 245, 237);
+    --no-feet: rgba(131, 129, 129, 0.962);
+    --slim-shady: rgba(0, 0, 0, 0.018);
+    --live-laugh-beige: rgb(232, 239, 221);
     --blue-it: rgb(95, 189, 191);
     --really-blue-it: rgb(84, 150, 150);
     --red-zeppelin: #b83619;
     --ron-burgundy: #6a1e0e;
     --daily-rind: rgb(255, 155, 48);
-    --cheese: rgb(255, 221, 129);
+    --cheese: rgb(255, 221, 130);
     /* base styles */
     color: var(--live-laugh-beige);
     font-family: 'Roboto', sans-serif;
