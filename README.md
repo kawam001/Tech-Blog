@@ -47,13 +47,15 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 ```
 
 ## Mock-Up
+![Tech Blog Screen1](techBlog1.PNG)
+![Tech Blog Screen2](techBlog2.PNG)
+![Tech Blog Screen3](techBlog3.PNG)
+![Tech Blog Screen4](techBlog4.PNG)
 
-### Deployment: 32%
 
-* Application deployed at live URL.
+### Links
 
-* Application loads with no errors.
+https://dashboard.heroku.com/apps/techblog-kawam
 
-* Application GitHub URL submitted.
+https://github.com/kawam001/Tech-Blog
 
-* GitHub repository contains application code.
